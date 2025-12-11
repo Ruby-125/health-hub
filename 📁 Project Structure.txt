@@ -1,0 +1,8 @@
+health-hub/
+├── index.html
+├── style.css
+├── script.js
+├── Dockerfile
+├── .dockerignore
+├── nginx.conf
+└── README.md
